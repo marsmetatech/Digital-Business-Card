@@ -112,6 +112,7 @@ NOTE: Make nodes as provided above. Any change in the name of the node will caus
     }
   },
 }
+}
 ```
 7. Click on Publish. You have setup the Firebase Realtime Database.
 8. Now, under the Build section of left sidebar, click on Authentication.
